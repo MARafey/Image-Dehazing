@@ -38,18 +38,24 @@ By combining the prowess of the backend and frontend components, this software p
 
 ### How to run
 
-https://github.com/MARafey/Image-Dehazing/assets/115175167/1375153f-e840-49c1-abf1-398a54b3a136
+
+https://github.com/MARafey/Image-Dehazing/assets/115175167/19714b5c-c97a-4b58-a9de-cef688ef1a26
+
 
 ### Running the application
 
-https://github.com/MARafey/Image-Dehazing/assets/115175167/016e2004-23dd-4d83-8bc2-fd8893cc2f01
+
+https://github.com/MARafey/Image-Dehazing/assets/115175167/d245c92c-bec5-4c91-94ca-84cfa1c83340
+
 
 ### Result
 
 #### Before
 
-![1381](https://github.com/MARafey/Image-Dehazing/assets/115175167/7d3baf59-4084-406f-b623-64415a79a464)
+![1381](https://github.com/MARafey/Image-Dehazing/assets/115175167/eaf67ce8-bbf0-4f6a-aab4-313c686ad8d3)
+
 
 #### After
 
-![defogged_image_0](https://github.com/MARafey/Image-Dehazing/assets/115175167/15abb1a4-fdc2-4e9c-9ef4-f8e2ffb0df02)
+![defogged_image_0](https://github.com/MARafey/Image-Dehazing/assets/115175167/1220fb75-46bd-4b43-b2e7-5eb230a4ca38)
+
