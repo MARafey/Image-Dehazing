@@ -35,3 +35,21 @@ The *backend* folder is home to the meticulously trained models utilized for ima
 Within the *frontend* folder, you will encounter the React code, an advanced and popular JavaScript library for crafting dynamic and responsive user interfaces. This well-crafted frontend code incorporates interactive elements, appealing visuals, and a user-friendly interface. Notably, it is artfully connected to the formidable models stored in the backend folder, ensuring a harmonious integration between the frontend and the powerful defogging algorithms.
 
 By combining the prowess of the backend and frontend components, this software presents an impressive and innovative solution for image defogging, elevating the visual quality of images under challenging environmental conditions 
+
+### How to run
+
+https://github.com/MARafey/Image-Dehazing/assets/115175167/1375153f-e840-49c1-abf1-398a54b3a136
+
+### Running the application
+
+https://github.com/MARafey/Image-Dehazing/assets/115175167/016e2004-23dd-4d83-8bc2-fd8893cc2f01
+
+### Result
+
+#### Before
+
+![1381](https://github.com/MARafey/Image-Dehazing/assets/115175167/7d3baf59-4084-406f-b623-64415a79a464)
+
+#### After
+
+![defogged_image_0](https://github.com/MARafey/Image-Dehazing/assets/115175167/15abb1a4-fdc2-4e9c-9ef4-f8e2ffb0df02)
